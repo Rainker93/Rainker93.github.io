@@ -1,0 +1,18 @@
+{
+    "songs":[
+      {
+        "albumart": "https://raw.githubusercontent.com/Rainker93/Rainker93.github.io/main/albumart/test1.jpg",
+        "author": "한동근",
+        "song": "캠핑",
+        "json":"https://github.com/Rainker93/Rainker93.github.io/blob/main/lyrics/test1.json",
+        "audio":"https://rainker93.github.io/test1.mp3"
+      },
+      {
+        "albumart": "https://raw.githubusercontent.com/Rainker93/Rainker93.github.io/main/albumart/test2.jpg",
+        "author": "한동근",
+        "song": "서로",
+        "json":"https://github.com/Rainker93/Rainker93.github.io/blob/main/lyrics/test1.json",
+        "audio":"https://rainker93.github.io/test2.mp3"
+      }
+    ]
+  }
